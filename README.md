@@ -1,4 +1,4 @@
-# enriched social KPIs app
+# enriched social PMO app
 
 collaboration engine / social & enterprise innovation protocol - PoC
 

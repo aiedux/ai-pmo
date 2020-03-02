@@ -1,7 +1,7 @@
 <template>
   <div id="welcome">
-    <h1 contenteditable="true">nRich @ ai speed</h1>
-    <p>realtime distributed social enrichment engine</p>
+    <h1 contenteditable="true">PMO @ AI speed</h1>
+    <p>realtime distributed social projects engine</p>
     <!-- <p>evolutionary learning & fair monetary engine</p> -->
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
