@@ -1,4 +1,4 @@
-# enriched social PMO app
+# Enriched Social PMO App
 
 collaboration engine / social & enterprise innovation protocol - PoC
 
